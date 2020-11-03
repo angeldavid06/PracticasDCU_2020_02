@@ -17,7 +17,7 @@
             android:icon="@drawable/ic_menu_slideshow"
             android:title="@string/menu_slideshow" />
         <item
-            android:id="@+id/fragment_capturaprod"
+            android:id="@+id/fragment_capturaprod2"
             android:icon="@drawable/ic_menu_captura"
             android:title="@string/menu_capturaprod"/>
     </group>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ControlLibros_</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">LIBRERIA </string>
+    <string name="nav_header_subtitle">correoelectronico@android.com</string>
+    <string name="nav_header_desc">EL LIBRO AL ALCANCE</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Libros en Existencia</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_capturaprod">Registrar Libros</string>
+    <string name="menu_consultarprod">Consultar Libros</string>
+    <string name="menu_salir">Salir</string>
+    <string name="c_cveprod">Clave:</string>
+    <string name="c_nombreprod">Nombre:</string>
+    <string name="c_autorprod">Autor:</string>
+    <string name="c_fechacaptura">Fecha de captura:</string>
+    <string name="c_precioprod">Precio:</string>
+    <string name="c_fotoprod">Nombre de la foto:</string>
+    <string name="c_activo">Activo</string>
+    <string name="b_guardar">Guardar</string>
+
+
+    <string-array name="cbo_fotoprod">
+        <item>SELECCIONE</item>
+        <item>li_foto1.jpg</item>
+        <item>li_foto2.jpg</item>
+        <item>li_foto3.jpg</item>
+        <item>li_foto4.jpg</item>
+        <item>li_foto5.jpg</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

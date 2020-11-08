@@ -47,6 +47,7 @@ public class ProductoAdapter extends BaseAdapter {
             holder = (ViewHolder) row.getTag();
         }
         Producto prod = arrayProducto.get(i);
+        holder.id = prod.getCveprod();
         holder.loc_textVProd.setText(prod.getNombreprod());
         holder.loc_textVPrecio.setText(String.valueOf(prod.getPrecioprod()));
         archivo = prod.getFotoprod();
@@ -60,9 +61,5 @@ public class ProductoAdapter extends BaseAdapter {
         int aux=context.getResources().getIdentifier(archivo, "drawable",getPkg);
         holder.loc_imgViewProd.setImageResource(aux);
         return row;
-    }
-    private class ViewHolder{
-        ImageView loc_imgViewProd;
-        TextView loc_textVProd, loc_textVPrecio;
     }
 }

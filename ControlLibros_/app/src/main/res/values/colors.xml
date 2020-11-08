@@ -2,11 +2,11 @@
 <resources>
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
-    <color name="colorBase">#71876B</color>
+    <color name="colorAccent">#2C2C54</color>
+    <color name="colorBase">#40407A</color>
     <color name="colorBar">#3C4738</color>
-    <color name="colorSecund">#A7C78E</color>
-    <color name="colorBoton">#B1D4A7</color>
+    <color name="colorSecund">#2C2C54</color>
+    <color name="colorBoton">#34ACE0</color>
     <color name="colorMenu">#91AD89</color>
     <color name="colorLetraResalta">#DF7401</color>
     <color name="colorBlanco">#FFFFFF</color>
